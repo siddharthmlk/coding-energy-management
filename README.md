@@ -2,7 +2,7 @@
 
 This service is created to collect and showcase the village wise energy consumption data.
 
-# Technologies
+# Technologies & Tools
 Java 8, Spring Boot 2.1.4, H2, Maven
 
 # Use cases covered
